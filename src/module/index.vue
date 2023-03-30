@@ -1,6 +1,7 @@
 <template>
     <!--编写日：2023-03-28-->
-    <div style="position: absolute;right: 0px;top: 0px;font-size: 8px;color: rgb(255 255 255 / 40%);z-index: 999;overflow: hidden;word-wrap: normal;">Power by Wesley</div>
+    <div style="position: absolute;right: 0px;top: 0px;font-size: 8px;color: rgb(255 255 255 / 40%);z-index: 999;overflow: hidden;word-wrap: normal;">QD: Power by Wesley</div>
+    <div style="position: absolute;right: 0px;top: 10px;font-size: 8px;color: rgb(255 255 255 / 40%);z-index: 999;overflow: hidden;word-wrap: normal;">HD: power by DDoS_LING</div>
     <div class="bg2"></div>
     <div class="bg">
         <div
